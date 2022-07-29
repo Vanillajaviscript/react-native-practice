@@ -1,0 +1,25 @@
+{
+  "name": "react-native-capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Vanillajaviscript/react-native-practice.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Javier Delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanillajaviscript/react-native-practice/issues"
+  },
+  "homepage": "https://github.com/Vanillajaviscript/react-native-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
